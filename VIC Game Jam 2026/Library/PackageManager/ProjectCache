@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639101534220000000
+      ticks: 639101547660000000
     m_Hash: 2798296797
   m_LockFileStatus:
     m_FilePath: /Users/wadeklauer/Documents/GitHub/VIC-Game-Jam/VIC Game Jam 2026/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639101534220000000
+      ticks: 639101547660000000
     m_Hash: 1728168148
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
