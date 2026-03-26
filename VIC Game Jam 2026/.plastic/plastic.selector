@@ -1,0 +1,4 @@
+repository "VIC Game Jam 2026/VIC Game Jam 2026@5773090832595@cloud"
+  path "/"
+    br "/main"
+    co "/main"
